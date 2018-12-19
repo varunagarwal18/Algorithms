@@ -52,7 +52,7 @@ int main()
 			}
 		}
 	}
-	cout<<index<<endl;
+	
 	if(index == n) cout<<"Pattern exists in given text";
 	else  cout<<"Pattern does not exist in given text";
 }
